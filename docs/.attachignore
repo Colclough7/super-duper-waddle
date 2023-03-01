@@ -1,4 +1,3 @@
-
 docs/routes/movies_list.md
 docs/routes/movies_read.md
 docs/routes/reviews_destroy.md
@@ -9,6 +8,7 @@ docs/tables/movies.md
 docs/tables/movies_theaters.md
 docs/tables/reviews.md
 docs/tables/theaters.md
+knexfile.js
 test/routes/movies.test.js
 test/routes/reviews.test.js
 test/routes/theaters.test.js
